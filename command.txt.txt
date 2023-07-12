@@ -1,0 +1,11 @@
+1  git config --global user.name "shruti"(username.once)
+2  git config --global user.email "shrutisapkota97@gmail.com"(email.once)
+3  git config --glogal --list(just to see thats there)
+4 git init (going in the file)
+5  git status (see the condition )
+6  history
+7 git add todo.txt (track the file )
+
+
+
+    

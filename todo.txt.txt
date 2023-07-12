@@ -1,1 +1,3 @@
 git status : whats inside it 
+
+something new 
