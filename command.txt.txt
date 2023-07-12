@@ -4,8 +4,11 @@
 4 git init (going in the file)
 5  git status (see the condition )
 6  history
-7 git add todo.txt (track the file )
+7 git add todo.txt (track the file )(you can use tab to get the name of the file )
+8 git commit-m "add todo list items"(i am done with thsi flie)(save)
+9 git add . (dont use this much it select  trackall the file and folder)
 
 
 
     
+ 
