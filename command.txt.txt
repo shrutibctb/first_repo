@@ -10,6 +10,71 @@
 10 git checkout -b branch(does the switch and branch at the same time)
 
 
+ 1  git init
+    2  git status
+    3  history
+    4  git status
+    5  git add todo.txt
+    6  git add todo.txt.txt
+    7  git add todo.txt
+    8  =git add todo.txt.txt
+    9  git status
+   10  git commit-m "add todo list items"
+   11  git commit -m "add todo list items"
+   12  git status
+   13  git status
+   14  git add .
+   15  git status
+   16  git commit -m "add todo items"
+   17  git status
+   18  git add .
+   19  git commit -m "add command and append new item in todo list"
+   20  git status
+   21  git log
+   22  git log --one line
+   23  git log --oneline
+   24  git status
+   25  git diff
+   26  git diff
+   27  git status
+   28  git diff
+   29  history
+   30  git branch
+   31  git branch feat/newtodo
+   32  git branch
+   33  git switch todo.txt.txt
+   34  git status
+   35  git add todo.txt.txt
+   36  git add .
+   37  git commit -m "remove 1st task form todo"
+   38  git status
+   39  git branch
+   40  git switch master
+   41  git branch feat/newtodo
+   42  git switch feat/newtodo
+   43*
+   44  git commit -m "i am done with this for now"
+   45  git status
+   46  git add todo.txt.txt
+   47  git commit -m "i am done with this for now 1"
+   48  git status
+   49  git add .
+   50*
+   51  git checkout 8b88b84
+   52  git checkout c499ceb4b
+   53  git checkout c499ceb4b
+   54  git branch feat/newtodo
+   55  git switch feat/newtodo
+   56  git add .
+   57  git switch master
+   58  git commit -m "iam done"
+   59  git switch master
+   60  git status
+   61  git restore .
+   62  history
+
+
+
 
     
  
